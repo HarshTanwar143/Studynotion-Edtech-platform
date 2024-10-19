@@ -28,7 +28,7 @@ cloudinaryConnect();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-    origin:"http://localhost:3000",         // FE will entertain by BE, this will ensure it...
+    origin: ["http://localhost:3000", "https://your-frontend-url.vercel.app"],         // FE will entertain by BE, this will ensure it...
     credentials:true,
 }));
 app.use(fileUpload({

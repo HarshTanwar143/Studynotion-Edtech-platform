@@ -115,6 +115,7 @@ Features and Functionalities of the Back-end: The back end of StudyNotion provid
 
 Overall, the back end of StudyNotion is designed to provide a robust and scalable solution for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the right frameworks, libraries, and tools, we can ensure that the platform functions smoothly and provides an optimal user experience for all its users.
 
+![Screenshot (703)](https://github.com/user-attachments/assets/33da730e-463e-4f6a-a319-07bda0672d77)
 
 ## API Design
 
@@ -204,7 +205,7 @@ Throughout the development of the project, various achievements will be made in 
 
 
 
-![Screenshot (703)](https://github.com/user-attachments/assets/33da730e-463e-4f6a-a319-07bda0672d77)
+
 
    
 
